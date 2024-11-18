@@ -1,4 +1,4 @@
-# 🚑 **Drug Traceability in Healthcare Supply Chain Using Blockchain Technology** 🔗
+# 🚑 **Drug Traceability Project in pharmaceutical Healthcare Supply Chain Using Blockchain Technology** 🔗
 
 ## 🌟 **Overview**
 In an era of rapid pharmaceutical advancements, ensuring the integrity and authenticity of drugs is paramount. This project leverages **Blockchain Technology** to enhance the transparency, traceability, and security of the healthcare supply chain. By using a decentralized approach, it ensures that the journey of each drug is tracked from manufacturing to delivery, minimizing the risk of counterfeit products and ensuring compliance with regulations.
@@ -6,7 +6,6 @@ In an era of rapid pharmaceutical advancements, ensuring the integrity and authe
 ---
 
 ## 🎯 **Project Goals**
-The primary goal of this project is to build a transparent and secure drug traceability system that operates on blockchain technology. With the growing concerns around the proliferation of counterfeit drugs, this system aims to create an immutable ledger that records each transaction in the drug supply chain, providing stakeholders with real-time access to verified drug information.
 
 - 🛠️ **Traceability:** Ensures drugs are traceable from manufacturer to consumer.
 - 🔒 **Security:** Prevents counterfeit drugs from entering the supply chain.
@@ -41,6 +40,14 @@ The primary goal of this project is to build a transparent and secure drug trace
 
 ---
 
+## 🙏 **Acknowledgements**
+- **Ethereum** - The foundation of decentralized applications that power this project.
+- **Truffle Suite** - For simplifying the process of deploying and managing Ethereum smart contracts.
+- **Ganache** - A local Ethereum blockchain for testing and development.
+- **Web3.js & Web3.py** - For connecting the frontend and backend with the Ethereum network.
+
+---
+
 ## 🛠️ **Installation**
 
 ### 1. **Clone the Repository**
@@ -48,3 +55,10 @@ The primary goal of this project is to build a transparent and secure drug trace
 ```bash
 git clone https://github.com/yourusername/drug-traceability-blockchain.git
 cd drug-traceability-blockchain
+
+**Built with ❤️ by Sathvik**  
+For further details or questions, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sathvik-ch-ab37a8230/).
+
+```
+---
+
