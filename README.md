@@ -1,6 +1,6 @@
 # 🚑 **Drug Traceability Project in pharmaceutical Healthcare Supply Chain Using Blockchain Technology** 🔗
 
-## 🌟 **Overview**
+## 🌟 **Overview :**
 In an era of rapid pharmaceutical advancements, ensuring the integrity and authenticity of drugs is paramount. This project leverages **Blockchain Technology** to enhance the transparency, traceability, and security of the healthcare supply chain. By using a decentralized approach, it ensures that the journey of each drug is tracked from manufacturing to delivery, minimizing the risk of counterfeit products and ensuring compliance with regulations.
 
 ---
@@ -64,7 +64,7 @@ So by using this application any user can know current tracing and manufacture d
 ---
 ---
 
-## 🎯 **Project Goals**
+## 🎯 **Project Goals :**
 
 - 🛠️ **Traceability:** Ensures drugs are traceable from manufacturer to consumer.
 - 🔒 **Security:** Prevents counterfeit drugs from entering the supply chain.
@@ -73,7 +73,7 @@ So by using this application any user can know current tracing and manufacture d
 
 ---
 
-## 🖥️ **Technology Stack**
+## 🖥️ **Technology Stack :**
 - **Blockchain:** Ethereum Smart Contracts 🏗️
 - **Backend:** Python 3.7.4 🐍
 - **Web3:** Web3.js and Python Integration 🌍
@@ -83,7 +83,7 @@ So by using this application any user can know current tracing and manufacture d
 
 ---
 
-## 🚀 **Key Features**
+## 🚀 **Key Features :**
 - 📝 **Decentralized Ledger:** Immutable records for each drug's journey, reducing the risk of tampering.
 - 🤖 **Smart Contracts:** Automates transactions and enforces rules, ensuring compliance.
 - 📡 **Real-Time Monitoring:** Tracks drugs as they move through the supply chain, offering stakeholders up-to-date information.
@@ -91,7 +91,7 @@ So by using this application any user can know current tracing and manufacture d
 
 ---
 
-## 🔧 **How It Works**
+## 🔧 **How It Works :**
 1. **Drug Creation:** 🏭 When a drug is created, a smart contract is deployed on the blockchain.
 2. **Supply Chain Movement:** 🚚 As the drug moves through the supply chain (e.g., from manufacturer to distributor, to retailer, and finally to the consumer), every action is recorded on the blockchain.
 3. **Transaction Validation:** ✅ Each movement of the drug is validated by the smart contract to ensure that no counterfeit drugs enter the supply chain.
@@ -99,7 +99,7 @@ So by using this application any user can know current tracing and manufacture d
 
 ---
 
-## 🙏 **Acknowledgements**
+## 🙏 **Acknowledgements :**
 - **Ethereum** - The foundation of decentralized applications that power this project.
 - **Truffle Suite** - For simplifying the process of deploying and managing Ethereum smart contracts.
 - **Ganache** - A local Ethereum blockchain for testing and development.
@@ -107,7 +107,7 @@ So by using this application any user can know current tracing and manufacture d
 
 ---
 
-## 🛠️ **Installation**
+## 🛠️ **Installation :**
 
 ### 1. **Clone the Repository**
 
